@@ -46,17 +46,14 @@ const about = () => {
           <div className='grid w-full grid-cols-8 gap-16'>
             <div className='col-span-3 flex flex-col items-start justify-start'>
               <h2 className='mb-4 text-lg font-bold uppercase text-dark/75'>Biography</h2>
-              <p className='font-medium'>Hi, Im CodeBucks, a web developer and UI/UX designer with a passion for creating beautiful, functional,
-                and user-centered digital experiences. With 4 years of experience in the field. I am always looking for
-                new and innovative ways to bring my clients visions to life.</p>
+              <p className='font-medium'>Halo, Saya fauzi, saya merupakan seorang lulusan sarjana sistem komputer di salah satu perguruan tinggi swasta di daerah depok, saya memiliki ketertarikan dibidang
+              teknologi, minat saya dibidang programming dan Robotik, karena latar belakang saya adalah sistem komputer yang cenderung ke hardware dan robotik, saya juga memiliki minat dibidang web development dan DevOps. </p>
               <p className=' my-4 font-medium'>
-                I believe that design is about more than just making things look pretty – its about solving problems and
-                creating intuitive, enjoyable experiences for users.
+               Selama kuliah Saya juga aktif mengikuti bootcamp/kursus diluar kampus dan menghasilakan beberapa proyek. saya juga menjadi asisten laboratorium Multimedia dan Robotika Universitas Gunadarma
+               bagian divisi reset untuk membuat dan mengembangkan robot untuk keperluan praktikum, lomba, proyek dosen dan event seperti Kampus merdeka pada bagian Matching fund yang bekerja sama antara kampus gunadarma dan pemerintah kota penajam paser utara
               </p>
               <p className='font-medium'>
-                Whether Im working on a website, mobile app, or
-                other digital product, I bring my commitment to design excellence and user-centered thinking to
-                every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
+                
               </p>
             </div>
 
@@ -79,8 +76,8 @@ const about = () => {
               </div>
               <div className='flex flex-col items-end justify-center'>
                 <span className='inline-block text-7xl font-bold' >
-                  <AnimatedNum value={150} />+</span>
-                <h2 className='text-xl font-medium capitalize text-dark/75'>statisfied</h2>
+                  <AnimatedNum value={4} />+</span>
+                <h2 className='text-xl font-medium capitalize text-dark/75'>IT Support</h2>
               </div>
               <div className='flex flex-col items-end justify-center'>
                 <span className='inline-block text-7xl font-bold'>
